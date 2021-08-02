@@ -4,7 +4,7 @@ My Name is Aayush Nigam and I'm a novice data analyst who is undergoing a certif
 
 
 ### Index
-* personal_project (under construction) -  here you will find an overview of my work with highlights from topics like:
+* PersonalREP (under construction) -  here you will find an overview of my work with highlights from topics like:
   * Python Coding
   * SQL
   * Tableau Visualization
