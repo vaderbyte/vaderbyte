@@ -10,6 +10,8 @@ My Name is Aayush Nigam and I'm a novice data analyst who is undergoing a certif
   * Tableau Visualization
 * Pinned Projects - below you will see some of my fav personal projects in detail.
 
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 <details open>
 <summary>More About Me</summary>
