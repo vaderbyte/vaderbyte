@@ -4,14 +4,12 @@ My Name is [Aayush Nigam](https://www.linkedin.com/in/aayush-nigam/) and I'm a n
 
 
 ### Index
-* PersonalREP (under construction) -  here you will find an overview of my work with highlights from topics like:
+* [PersonalREP](https://github.com/vaderbyte/PersonalREP) (under construction) -  here you will find an overview of my work with highlights from topics like:
   * Python Coding
   * SQL
   * Tableau Visualization
 * Pinned Projects - below you will see some of my fav personal projects in detail.
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
 <details open>
 <summary>More About Me</summary>
