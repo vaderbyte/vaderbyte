@@ -15,6 +15,6 @@ My Name is Aayush Nigam and I'm a novice data analyst who is undergoing a certif
 <summary>More About Me</summary>
 <br>
 <ul>
-<li> I'm currently applying for jobs in Data Analytics and Data Science. If you are looking for a hardworking team member, look no further!</li>
+<li>🔭 I'm currently applying for jobs in Data Analytics and Data Science. If you are looking for a hardworking team member, look no further!</li>
 <li> Ask me about anything about gaming or technology. I love to talk about it. </li>
 </details>
