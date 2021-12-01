@@ -4,17 +4,16 @@ My Name is [Aayush Nigam](https://www.linkedin.com/in/aayush-nigam/) and I'm a n
 
 
 ### Index
-* [PersonalREP](https://github.com/vaderbyte/PersonalREP) (under construction) -  here you will find an overview of my work with highlights from topics like:
+*  Pinned Projects -  here you will find an overview of my work with highlights from topics like:
   * Python Coding
   * SQL
   * Tableau Visualization
-* Pinned Projects - below you will see some of my fav personal projects in detail.
 
 
 <details open>
 <summary>More About Me</summary>
 <br>
 <ul>
-<li>🔭 I'm currently applying for jobs in Data Analytics and Data Science. If you are looking for a hardworking team member, look no further!</li>
+<li>🔭 I'm currently applying for jobs in Data Analytics. If you are looking for a hardworking team member, look no further!</li>
 <li> Ask me about anything about gaming or technology. I love to talk about it. </li>
 </details>
