@@ -5,9 +5,9 @@ My Name is [Aayush Nigam](https://www.linkedin.com/in/aayush-nigam/) and I'm a n
 
 ### Index
 *  Pinned Projects -  here you will find an overview of my work with highlights from topics like:
-  * Python Coding
-  * SQL
-  * Tableau Visualization
+  - Python Coding
+  - SQL
+  - Tableau Visualization
 
 
 <details open>
